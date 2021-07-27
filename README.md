@@ -1,3 +1,3 @@
 # rsschool-cv
 
-[metrolog1](https://metrolog1.github.io/rsschool-cv/)
+[metrolog1](https://github.com/metrolog1/rsschool-cv/blob/rsschool-cv-html/index.html)
